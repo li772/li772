@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on slava
 - 🌱 I’m currently learning Go, Cloud Native, 5G core network...
-- 📫 How to reach me: libowei@bupt.edu.cn / libowei@163.com
+- 📫 How to reach me: libowei@bupt.edu.cn / libowei0702@163.com
