@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=libowei&show_icons=true" />
+
 - 🔭 I’m currently working on slava
 - 🌱 I’m currently learning Go, Cloud Native, 5G core network...
 - 📫 How to reach me: libowei@bupt.edu.cn / libowei@163.com
