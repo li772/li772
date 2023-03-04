@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 - 💬 My blog: 稀土掘金 之 [掘金Bowei](https://juejin.cn/user/2494162148014152/posts)
   * [《Redis单线程模型》](https://juejin.cn/post/7194291537717493820)
   * [《Redis持久化之AOF》](https://juejin.cn/post/7196393365314502713)
+  * [《Golang实现Redis的list》](https://juejin.cn/post/7205908717887340605)
 - 📫 How to reach me: libowei@bupt.edu.cn / libowei0702@163.com
